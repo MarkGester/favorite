@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333; /* Dark text color */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #87cefa; /* Sky blue */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #2e8b57; /* Sea green */
+}
+
+h2 {
+    color: #4682b4; /* Steel blue */
+}
+
+.favorites {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the section */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #87cefa; /* Sky blue */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
